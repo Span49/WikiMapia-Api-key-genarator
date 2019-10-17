@@ -1,0 +1,1 @@
+# WikiMapia Api key genarator
