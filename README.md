@@ -22,4 +22,4 @@ CREATE TABLE `wm_keys` (
 ) ENGINE=MyISAM AUTO_INCREMENT=0 DEFAULT CHARSET=cp1251;
 ```
 После чего можем спокойно запускать наш testkey.php через браузер и наблюдать как ключики летят в БД.
-Все вопросы можно задать мне в ЛС в моей ВК группе vk.com/urbanside
+Все вопросы можно задать мне в ЛС в моей [ВК группе]:http://vk.com/urbanside
